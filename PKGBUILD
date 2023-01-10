@@ -1,5 +1,5 @@
 pkgname=sway-unsupported-gpu
-pkgver=1.0.7
+pkgver=1.0.0
 pkgrel=1
 pkgdesc="Add session file with --unsupported-gpu option"
 arch=('any')
