@@ -3,7 +3,7 @@ pkgver=1.0.0
 pkgrel=1
 pkgdesc="Add session file with --unsupported-gpu option"
 arch=('any')
-url="https://github.com/LokiVKlokeNaAndoke/sway-unsupported-gpu.git"
+url="git@github.com:LokiVKlokeNaAndoke/sway-unsupported-gpu.git"
 license=('MIT')
 depends=('sway' 'vulkan-validation-layers')
 source=("$pkgname-$pkgver::git+$url.git#tag=$pkgver")
