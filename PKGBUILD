@@ -1,6 +1,6 @@
 pkgname=sway-unsupported-gpu
 pkgver=1.0.1
-pkgrel=4
+pkgrel=1
 pkgdesc="Add session file with --unsupported-gpu option"
 arch=('any')
 url="https://github.com/LokiVKlokeNaAndoke/sway-unsupported-gpu"
