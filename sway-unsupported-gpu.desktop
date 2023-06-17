@@ -1,5 +1,5 @@
 [Desktop Entry]
 Name=Sway (NVIDIA)
 Comment=An i3-compatible Wayland compositor (NVIDIA Fixes)
-Exec=sway --unsupported-gpu -D noscanout
+Exec=sway --unsupported-gpu
 Type=Application
